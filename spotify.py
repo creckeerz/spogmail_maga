@@ -3,9 +3,9 @@ try:
 except Exception as e :
 	print(" Module belum terinstall\n")
 
-domain = "@onetimeone.my.id"  # set domain here
+domain = "@gmail.com"  # set domain here
 sandi = "@onetime123"  # set password here
-capsolver_key = "CAP-BE4743082801E5611EFC304C875BEB79" # set capsolver api key here
+capsolver_key = "CAP-4921A6D2AEAF078014279B7EC4120FDA" # set capsolver api key here
 api_spotify = "142b583129b2df829de3656f9eb484e6" # dont change if u dont know how to get api_spotify
 
 class Spotify:
